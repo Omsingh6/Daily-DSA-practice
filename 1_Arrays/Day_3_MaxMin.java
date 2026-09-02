@@ -1,7 +1,7 @@
 /// Find the maximum and minimum element in array;
 
 import java.util.Scanner;
-public class MaxMin {
+public class Day_3_MaxMin {
      public static void main(String arga[]){
         Scanner sc = new Scanner(System.in);
          

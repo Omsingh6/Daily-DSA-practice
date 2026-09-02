@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /// The second and third Gretest number find ;
-public class problemA1 {
+public class Day_4_SecondLargest {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

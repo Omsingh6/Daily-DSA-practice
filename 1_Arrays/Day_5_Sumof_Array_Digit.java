@@ -1,9 +1,10 @@
 import java.util.*;
-public class SumofArrayDigit {
+public class Day_5_Sumof_Array_Digit {
   public static void main(String args[]){
     Scanner sc = new Scanner(System.in);
      int size = sc.nextInt();
      int arr[] = new int[size];
+     int sum =0;
      for(int i= 0; i<size; i++){
       arr[i] = sc.nextInt();
      }
@@ -13,7 +14,6 @@ public class SumofArrayDigit {
 
      for(int i=0; i<arr.length; i++){
     int n = arr[i];
-    int sum = 0;
 
     while(n > 0){
         int digit = n % 10;

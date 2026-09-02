@@ -1,6 +1,6 @@
 //Check If Array is Sorted
 import java.util.*;
-public class CheckIfArrayisSorted {
+public class Day_8_Check_If_Array_is_Sorted {
   public static void main(String args[]){
     Scanner sc = new Scanner(System.in);
 

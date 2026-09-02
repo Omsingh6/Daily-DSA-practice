@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-class SumOfArray {
+class Day_1_Sum_Of_Array_ {
   public static void main(String args[]){
     Scanner sc = new Scanner(System.in);
      

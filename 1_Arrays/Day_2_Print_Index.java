@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 
-public class prblemA2 {
+public class Day_2_Print_Index {
   public static void main(String args[]){
     Scanner sc = new Scanner(System.in);
 
